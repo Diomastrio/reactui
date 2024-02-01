@@ -20,5 +20,5 @@ Características adicionales:
 
 ## Demo
 
-![Demo](./screenshots/demo.gif)
+![Demo](./screenshots/remo.gif)
 
