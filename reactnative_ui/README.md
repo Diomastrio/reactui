@@ -11,9 +11,9 @@ Características adicionales:
 ## Capturas de pantalla
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/login.jpg" width=30%>
-<img src="./screenshots/home1.png" width=30%>
-<img src="./screenshots/home2.png" width=30%>
+<img src="./screenshots/login.jpeg" width=30%>
+<img src="./screenshots/home1.jpeg" width=30%>
+<img src="./screenshots/home2.jpeg" width=30%>
 
 
 </div>
