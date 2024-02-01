@@ -1,24 +1,20 @@
-# React Native AirBnB Clone with Clerk
+# React Native 
 
-This is a React Native AirBnB clone using [Clerk](https://clerk.com/?utm_source=sponsorship&utm_medium=github&utm_campaign=simong&utm_content=rn-airbnb) for user authentication.
+Este es un proyecto de interfaz de usuario de React Native que usa expo
 
-Additional features:
+Características adicionales:
 
-- [Expo Router](https://docs.expo.dev/routing/introduction/) file-based navigation
-- [Google](https://clerk.com/docs/authentication/social-connections/google?utm_source=sponsorship&utm_medium=github&utm_campaign=simong&utm_content=rn-airbnb) & [Apple](https://clerk.com/docs/authentication/social-connections/apple?utm_source=sponsorship&utm_medium=github&utm_campaign=simong&utm_content=rn-airbnb) Auth with Clerk
-- [Reanimated](https://reanimated-beta-docs.swmansion.com/) 3 for animations
-- [MapView](https://docs.expo.dev/versions/latest/sdk/map-view/) with Marker and [Clustering](https://github.com/venits/react-native-map-clustering)
-- [Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/)
-- Modal with Animations and Blurred Background
+- [Expo Router](https://docs.expo.dev/routing/introduction/) navegación basada en archivos
 
-## Screenshots
+- Modal con animaciones y fondo borroso.
+
+## Capturas de pantalla
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/1.png" width=30%>
-<img src="./screenshots/2.png" width=30%>
-<img src="./screenshots/3.png" width=30%>
-<img src="./screenshots/4.png" width=30%>
-<img src="./screenshots/5.png" width=30%>
+<img src="./screenshots/login.jpeg" width=30%>
+<img src="./screenshots/home1.jpeg" width=30%>
+<img src="./screenshots/home2.jpeg" width=30%>
+
 
 </div>
 
