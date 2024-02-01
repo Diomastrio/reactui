@@ -1,6 +1,6 @@
 # React Native AirBnB Clone with Clerk
 
-This is a React Native AirBnB clone using [Clerk](https://clerk.com/?utm_source=sponsorship&utm_medium=github&utm_campaign=simong&utm_content=rn-airbnb) for user authentication.
+This is a React Native ui project clone using expo
 
 Additional features:
 
